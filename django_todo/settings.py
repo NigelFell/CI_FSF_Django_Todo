@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-nigelfell-cifsfdjangoto-okml4edkxru.ws-eu101.gitpod.io']
+ALLOWED_HOSTS = ['nrf-django-todo-app-f2666018483d.herokuapp.com']
 
 
 # Application definition
